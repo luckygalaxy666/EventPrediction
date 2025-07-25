@@ -1,0 +1,23 @@
+# 忽略这些目录
+new_data/
+temporal_data/
+es_data/
+backup/
+es_all_data/
+es_data_bak/
+tsmc_es_data/
+diff/
+__pycache__/
+.vscode/
+
+# 忽略这些文件
+csv_row_counts.txt
+csv_row_counts.xlsx
+label.json
+new_label.json
+fix_regcn_loss_variation.py
+investigate_loss_variation.py
+draw_diff.py
+draw_diff.diy.py
+delete.py
+

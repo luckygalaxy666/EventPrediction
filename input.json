@@ -1,0 +1,414 @@
+{
+    "link": [
+        {
+            "source_id": "961",
+            "target_id": "11083",
+            "timeDate": "2022-07-09",
+            "type": "认为犯罪"
+        },
+        {
+            "source_id": "79",
+            "target_id": "771",
+            "timeDate": "2020-09-10",
+            "type": "损害"
+        },
+        {
+            "source_id": "771",
+            "target_id": "14545",
+            "timeDate": "2020-06-30",
+            "type": "批评"
+        },
+        {
+            "source_id": "11084",
+            "target_id": "11082",
+            "timeDate": "2022-07-09",
+            "type": "认为优秀"
+        },
+        {
+            "source_id": "771",
+            "target_id": "995",
+            "timeDate": "2020-06-04",
+            "type": "欣赏"
+        },
+        {
+            "source_id": "961",
+            "target_id": "1139",
+            "timeDate": "2023-02-26",
+            "type": "损害"
+        },
+        {
+            "source_id": "79",
+            "target_id": "11083",
+            "timeDate": "2022-07-10",
+            "type": "认为犯罪"
+        },
+        {
+            "source_id": "6788",
+            "target_id": "771",
+            "timeDate": "2020-09-10",
+            "type": "损害"
+        },
+        {
+            "source_id": "11004",
+            "target_id": "5",
+            "timeDate": "2020-11-25",
+            "type": "威胁"
+        },
+        {
+            "source_id": "771",
+            "target_id": "8250",
+            "timeDate": "2020-09-18",
+            "type": "支持"
+        },
+        {
+            "source_id": "11090",
+            "target_id": "11082",
+            "timeDate": "2022-07-10",
+            "type": "损害"
+        },
+        {
+            "source_id": "771",
+            "target_id": "3200",
+            "timeDate": "2020-03-22",
+            "type": "增进"
+        },
+        {
+            "source_id": "7",
+            "target_id": "11004",
+            "timeDate": "2020-12-24",
+            "type": "主导"
+        },
+        {
+            "source_id": "1139",
+            "target_id": "17568",
+            "timeDate": "2022-09-29",
+            "type": "相信"
+        },
+        {
+            "source_id": "492",
+            "target_id": "771",
+            "timeDate": "2020-09-10",
+            "type": "威胁"
+        },
+        {
+            "source_id": "1",
+            "target_id": "11004",
+            "timeDate": "2021-01-05",
+            "type": "主导"
+        },
+        {
+            "source_id": "402",
+            "target_id": "771",
+            "timeDate": "2020-09-10",
+            "type": "损害"
+        },
+        {
+            "source_id": "771",
+            "target_id": "79",
+            "timeDate": "2020-08-13",
+            "type": "攻击"
+        },
+        {
+            "source_id": "771",
+            "target_id": "264",
+            "timeDate": "2020-08-03",
+            "type": "认可"
+        },
+        {
+            "source_id": "615",
+            "target_id": "11082",
+            "timeDate": "2022-07-18",
+            "type": "损害"
+        },
+        {
+            "source_id": "1405",
+            "target_id": "771",
+            "timeDate": "2020-06-04",
+            "type": "喜欢"
+        },
+        {
+            "source_id": "771",
+            "target_id": "1137",
+            "timeDate": "2020-06-30",
+            "type": "认为违规"
+        },
+        {
+            "source_id": "961",
+            "target_id": "11082",
+            "timeDate": "2022-07-10",
+            "type": "损害"
+        },
+        {
+            "source_id": "759",
+            "target_id": "11083",
+            "timeDate": "2022-07-10",
+            "type": "认为犯罪"
+        },
+        {
+            "source_id": "771",
+            "target_id": "112",
+            "timeDate": "2020-08-13",
+            "type": "质疑"
+        },
+        {
+            "source_id": "7",
+            "target_id": "11083",
+            "timeDate": "2022-07-09",
+            "type": "认为犯罪"
+        },
+        {
+            "source_id": "1139",
+            "target_id": "12774",
+            "timeDate": "2022-11-17",
+            "type": "感到满意"
+        },
+        {
+            "source_id": "771",
+            "target_id": "964",
+            "timeDate": "2020-08-13",
+            "type": "攻击"
+        },
+        {
+            "source_id": "771",
+            "target_id": "961",
+            "timeDate": "2020-08-13",
+            "type": "主导"
+        },
+        {
+            "source_id": "15695",
+            "target_id": "1139",
+            "timeDate": "2023-03-04",
+            "type": "认为热情"
+        },
+        {
+            "source_id": "11004",
+            "target_id": "961",
+            "timeDate": "2020-11-25",
+            "type": "增进"
+        },
+        {
+            "source_id": "771",
+            "target_id": "962",
+            "timeDate": "2020-08-13",
+            "type": "认为有威胁"
+        },
+        {
+            "source_id": "3924",
+            "target_id": "11083",
+            "timeDate": "2022-07-09",
+            "type": "认为犯罪"
+        },
+        {
+            "source_id": "10313",
+            "target_id": "1139",
+            "timeDate": "2022-12-12",
+            "type": "损害"
+        },
+        {
+            "source_id": "27",
+            "target_id": "1139",
+            "timeDate": "2023-01-19",
+            "type": "损害"
+        },
+        {
+            "source_id": "7",
+            "target_id": "11082",
+            "timeDate": "2022-07-18",
+            "type": "损害"
+        },
+        {
+            "source_id": "864",
+            "target_id": "1139",
+            "timeDate": "2022-09-22",
+            "type": "威胁"
+        }
+    ],
+    "node": [
+        {
+            "id": "615",
+            "name": "陈时中",
+            "type": "Person"
+        },
+        {
+            "id": "1405",
+            "name": "俄罗斯中国和平统一促进会会长虞安林表示此次座谈会意义重大反分裂国家法是坚持一国两制推进祖国和平统一制度体系的重要组成部分是反独促统政治责任和使命要求的重要遵循这部重要法律深得民心民意契合历史大势受到海内外爱国统一力量",
+            "type": "Organization"
+        },
+        {
+            "id": "11084",
+            "name": "美蒋同盟",
+            "type": "Organization"
+        },
+        {
+            "id": "11090",
+            "name": "美日同盟",
+            "type": "Location"
+        },
+        {
+            "id": "492",
+            "name": "中国政府",
+            "type": "Organization"
+        },
+        {
+            "id": "27",
+            "name": "民进党当局",
+            "type": "Organization"
+        },
+        {
+            "id": "1",
+            "name": "蔡英文",
+            "type": "Person"
+        },
+        {
+            "id": "15695",
+            "name": "戴克礼",
+            "type": "Person"
+        },
+        {
+            "id": "8250",
+            "name": "两本书",
+            "type": "UNK"
+        },
+        {
+            "id": "962",
+            "name": "南海",
+            "type": "Location"
+        },
+        {
+            "id": "995",
+            "name": "反分裂国家法",
+            "type": "Event"
+        },
+        {
+            "id": "1139",
+            "name": "台湾人",
+            "type": "Person"
+        },
+        {
+            "id": "864",
+            "name": "台湾媒体",
+            "type": "Organization"
+        },
+        {
+            "id": "6788",
+            "name": "中国军事现代化",
+            "type": "Event"
+        },
+        {
+            "id": "961",
+            "name": "冷战",
+            "type": "Event"
+        },
+        {
+            "id": "12774",
+            "name": "阿中部长",
+            "type": "Person"
+        },
+        {
+            "id": "3200",
+            "name": "复工复产",
+            "type": "UNK"
+        },
+        {
+            "id": "14545",
+            "name": "通过港版国安法",
+            "type": "Event"
+        },
+        {
+            "id": "11004",
+            "name": "亲美反共",
+            "type": "Event"
+        },
+        {
+            "id": "17568",
+            "name": "许多乡亲",
+            "type": "Person"
+        },
+        {
+            "id": "402",
+            "name": "美国政府",
+            "type": "Organization"
+        },
+        {
+            "id": "11083",
+            "name": "岸信介",
+            "type": "UNK"
+        },
+        {
+            "id": "264",
+            "name": "一国两制",
+            "type": "Event"
+        },
+        {
+            "id": "11082",
+            "name": "台湾菁英",
+            "type": "Location"
+        },
+        {
+            "id": "7",
+            "name": "国民党",
+            "type": "Organization"
+        },
+        {
+            "id": "10313",
+            "name": "抗中保台",
+            "type": "Event"
+        },
+        {
+            "id": "5",
+            "name": "大陆",
+            "type": "Location"
+        },
+        {
+            "id": "3924",
+            "name": "安倍晋三",
+            "type": "Person"
+        },
+        {
+            "id": "79",
+            "name": "美国",
+            "type": "Location"
+        },
+        {
+            "id": "771",
+            "name": "国际社会",
+            "type": "Organization"
+        },
+        {
+            "id": "964",
+            "name": "港台",
+            "type": "UNK"
+        },
+        {
+            "id": "1137",
+            "name": "港版国安法",
+            "type": "Event"
+        },
+        {
+            "id": "112",
+            "name": "北京",
+            "type": "Location"
+        },
+        {
+            "id": "759",
+            "name": "蒋介石",
+            "type": "Person"
+        }
+    ],
+    "timespan" : 31,
+    "mode" : "init",
+    "model_name": "test1",
+    "label":   [
+            {
+                "source":"美国",
+                "target":"习近平",
+                "edge":"不利好"
+            },
+            {
+                "source":"美国",
+                "target":"中国",
+                "edge":"不利好"
+            }
+        ],
+    "event_time":"2018-07-14"
+  }
