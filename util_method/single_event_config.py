@@ -36,7 +36,7 @@ MODE = "init"
 TIMESPAN = "31"
 
 # 是否需要从ES更新数据集
-UPDATE_DATASET = False
+UPDATE_DATASET = True
 
 # 是否需要处理中方关系反向化
 PROCESS_CHINESE_RELATIONS = False

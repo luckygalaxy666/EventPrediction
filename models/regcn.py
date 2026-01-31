@@ -251,8 +251,6 @@ class REGCN(MateModel):
                             attitude = -1
                         if attitude == 0:
                             continue
-                        if attitude == -1:
-                            print(f"负面关系: {Fid} {en} {relation_name}")
                         contribution = (10 - rank_idx) * top_values[idx, rank_idx].item() * attitude
                         # if contribution <0
                         #     print(f"贡献为负: {rank_idx} top_values[idx, rank_idx].item()} {relation_name} {contribution}")
