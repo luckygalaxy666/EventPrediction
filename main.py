@@ -236,7 +236,7 @@ def train(model,mode, epochs, batch_size, test_batch_size, step, early_stop, mon
             output = predict(model,output, test_batch_size, mode = 'fit',label=label)
             #存储每次拟合后的模型
             # save_checkpoint(model, name=model_id,path=checkpoint_path)
-            torch.cuda.empty_cache()  # 清理显存
+            # torch.cuda.empty_cache()  # 清理显存
         # 只存储最后一次拟合后的模型
 
         save_checkpoint(model, name='latest_model',path=checkpoint_path)

@@ -16,10 +16,21 @@ def connect_elasticsearch(host='http://121.48.163.69:45696'):
     返回:
         Elasticsearch: Elasticsearch 客户端实例。
     """
-    es = Elasticsearch(host)
-    if not es.ping():
-        raise ConnectionError("无法连接到 Elasticsearch 实例。请检查连接地址和 Elasticsearch 是否正在运行。")
-    return es
+    try:
+        # 添加超时设置和重试配置
+        es = Elasticsearch(
+            [host],
+            timeout=30,  # 连接超时30秒
+            max_retries=3,  # 最大重试3次
+            retry_on_timeout=True,  # 超时后重试
+            verify_certs=False  # 如果使用自签名证书，设为False
+        )
+        # 使用更长的超时时间进行ping测试
+        if not es.ping(request_timeout=10):
+            raise ConnectionError("无法连接到 Elasticsearch 实例。请检查连接地址和 Elasticsearch 是否正在运行。")
+        return es
+    except Exception as e:
+        raise ConnectionError(f"连接 Elasticsearch 失败: {str(e)}。请检查连接地址 {host} 和 Elasticsearch 是否正在运行。")
 
 def build_query(content, should_keywords, date_start, date_end):
     """

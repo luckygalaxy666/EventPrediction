@@ -30,13 +30,13 @@ ENTITIES = ["台积电", "英伟达", "AI芯片", "半导体", "美国", "魏哲
 EVENT_TIME = "2024-12-15"
 
 # 运行模式：check / fit / init
-MODE = "check"
+MODE = "init"
 
 # 时间跨度（天数）
 TIMESPAN = "31"
 
 # 是否需要从ES更新数据集
-UPDATE_DATASET = False
+UPDATE_DATASET = True
 
 # 是否需要处理中方关系反向化
 PROCESS_CHINESE_RELATIONS = False
@@ -78,8 +78,8 @@ def generate_tags_from_entities(entities):
         # 为每个组合生成两种关系：利好和不利好
         tags.append(f"{entity1} 利好 {entity2}")
         tags.append(f"{entity2} 利好 {entity1}")
-        tags.append(f"{entity1} 不利好 {entity2}")
-        tags.append(f"{entity2} 不利好 {entity1}")
+        # tags.append(f"{entity1} 不利好 {entity2}")
+        # tags.append(f"{entity2} 不利好 {entity1}")
     
     return tags
 
