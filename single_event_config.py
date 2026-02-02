@@ -30,13 +30,13 @@ ENTITIES = ["台积电", "英伟达", "AI芯片", "半导体", "美国", "魏哲
 EVENT_TIME = "2024-12-15"
 
 # 运行模式：check / fit / init
-MODE = "init"
+MODE = "check"
 
 # 时间跨度（天数）
 TIMESPAN = "31"
 
 # 是否需要从ES更新数据集
-UPDATE_DATASET = True
+UPDATE_DATASET = False
 
 # 是否需要处理中方关系反向化
 PROCESS_CHINESE_RELATIONS = False
